@@ -1,0 +1,182 @@
+													
+ALMAGATTISH M.													
+Acid uric	Ser	222	145 - 340	umol/L			8	Finalizat					
+ALT(GPT)	Ser	10	< 23	U/L			8	Finalizat					
+AST(GOT)	Ser	26	< 27	U/L			8	Finalizat					
+Creatinina	Ser	50	45 - 70	umol/L			8	Finalizat					
+WBC - Leucocite	4,26	4,8 - 10,8	10^3/ul	L			17	Finalizat					
+RBC - Eritrocite	5,19	4 - 5,2	10^6/ul				17	Finalizat					
+HGB - Hemoglobina	14,2	10,7 - 14,7	g/dL				17	Finalizat					
+HCT - Hematocrit	41,6	33 - 45	%				17	Finalizat					
+MCV	80,2	73 - 88	fL				17	Finalizat					
+MCH	27,4	24 - 30	pg				17	Finalizat					
+MCHC	34,1	32 - 36	g/dL				17	Finalizat					
+PLT - Trombocite	258	150 - 450	10^3/ul				17	Finalizat					
+RDW-SD *	37,1	37 - 54	fL				17	Finalizat					
+RDW-CV *	13	11,5 - 15	%				17	Finalizat					
+PDW *	11,2	12 - 16,5	fL	Scazut			17	Finalizat					
+MPV	10,5	7,4 - 10,4	fL	Crescut			17	Finalizat					
+P-LCR *	28	13 - 43	%				17	Finalizat					
+PCT *	0,27	0,16 - 0,47	%				17	Finalizat					
+Neutrofile	2,39	1,77 - 7,02	10^3/ul				17	Finalizat					
+Limfocite	1,51	1,23 - 5,4	10^3/ul				17	Finalizat					
+Monocite	0,3	0,09 - 0,86	10^3/ul				17	Finalizat					
+Eozinofile	0,04	0,09 - 0,43	10^3/ul	Scazut			17	Finalizat					
+Bazofile	0,02	0 - 0,1	10^3/ul				17	Finalizat					
+Procent neutrofile	56,2	37 - 65	%				17	Finalizat					
+Procent limfocite	35,4	27 - 50	%				17	Finalizat					
+Procent monocite	7	2-Aug	%				17	Finalizat					
+Procent eozinofile	0,9	2-Apr	%	Scazut			17	Finalizat					
+Procent bazofile	0,5	0 - 1	%				17	Finalizat					
+Granulocite imature % *	0		%				17	Finalizat					
+Granulocite imature # *	0		10^3/ul				17	Finalizat					
+Gamma-globuline	9	8 - 15,8	%				29	Finalizat					
+Beta-globuline	11	7,5 - 12,9	%				29	Finalizat					
+Alfa2-globuline	9,9	7,4 - 12,6	%				29	Finalizat					
+Alfa1-globuline	1,6	1 - 3,2	%				29	Finalizat					
+Albumina	68,5	59,8 - 72,4	%				29	Finalizat					
+Glicemie 1h	Plasma	25,65		mmol/L			8	Finalizat					
+Glicemie 30'	Plasma	1,23		mmol/L			8	Finalizat					
+Glicemie a jeun	Plasma	4,94		mmol/L			8	Finalizat					
+Glicemie la 90 min.	Plasma	5-Jul		mmol/L			8	Finalizat					
+Colesterol	Ser	5,52	< 5,2	mmol/L	Crescut		8	Finalizat					
+Fosfataza alcalina	Ser	244	< 187	U/L	Crescut		8	Finalizat					
+HDL - Colesterol	Ser	Jan-83	Feminin: Fara risc > 1.7 Risc moderat 1.15 - 1.7 Risc crescut < 1.15 Masculin: Fara risc > 1.45 Risc moderat 0.9-1.45 Risc crescut <0.9	mmol/L			8	Finalizat					
+LDL Colesterol	Ser	3,28	0 - 3,35	mmol/L			8	Finalizat					
+Lipide totale	Ser	6,49	5-Aug	g/L			8	Finalizat					
+Trigliceride	Ser	0,88	< 1,7	mmol/L			8	Finalizat					
+													
+													
+ALMAJANU E.													
+Acid uric	Sange	193	145 - 340	umol/L			8	Finalizat					
+ALT(GPT)	Sange	13	< 39	U/L			8	Finalizat					
+AST(GOT)	Sange	30	< 52	U/L			8	Finalizat					
+Calciu ionic	Sange	Jan-27	1,05 - 1,3	mmol/L			8	Finalizat					
+Calciu total	Sange	2,5	2,3 - 2,75	mmol/L			8	Finalizat					
+Colesterol	Sange	4,71	< 5,2	mmol/L			8	Finalizat					
+Creatinina	Sange	28	35 - 65	umol/L	Scazut		8	Finalizat					
+Albumina	71,2	59,8 - 72,4	%				22	Finalizat					
+Alfa1-globuline	2,1	1 - 3,2	%				22	Finalizat					
+Alfa2-globuline	10	7,4 - 12,6	%				22	Finalizat					
+Beta-globuline	8,1	7,5 - 12,9	%				22	Finalizat					
+Gamma-globuline	8,6	8 - 15,8	%				22	Finalizat					
+Fosfataza alcalina	Sange	156	< 300	U/L			8	Finalizat					
+Fosfor	Sange	1,51	1,1 - 2	mmol/L			8	Finalizat					
+Ionograma serica	Sange						28	Finalizat					
+Magneziu	Sange	0,84	0,7 - 1,05	mmol/L			8	Finalizat					
+Proteine totale	Sange	67,7	60 - 80	g/L			8	Finalizat					
+Trigliceride	Sange	0,69	< 1,7	mmol/L			8	Finalizat					
+Uree	Sange	4,22	1,4 - 8,3	mmol/L									
+WBC - Leucocite	4,75	4,8 - 10,8	10^3/ul	Scazut			15	Finalizat					
+RBC - Eritrocite	4,23	4 - 5,2	10^6/ul				15	Finalizat					
+HGB - Hemoglobina	12	10,7 - 14,7	g/dL				15	Finalizat					
+HCT - Hematocrit	34,8	33 - 45	%				15	Finalizat					
+MCV	82,3	73 - 88	fL				15	Finalizat					
+MCH	28,4	24 - 30	pg				15	Finalizat					
+MCHC	34,5	32 - 36	g/dL				15	Finalizat					
+PLT - Trombocite	293	150 - 450	10^3/ul				15	Finalizat					
+RDW-SD	37	37 - 54	fL				15	Finalizat					
+RDW-CV	12,7	11,5 - 15	%				15	Finalizat					
+PDW	9,6	12 - 16,5	fL	Scazut			15	Finalizat					
+MPV	8,9	7,4 - 10,4	fL				15	Finalizat					
+P-LCR	17,5	13 - 43	%				15	Finalizat					
+PCT	0,26	0,16 - 0,47	%				15	Finalizat					
+Neutrofile	2,15	1,77 - 7,08	10^3/ul				15	Finalizat					
+Limfocite	2,04	1,23 - 5,4	10^3/ul										
+Monocite	0,42	0,09 - 0,86	10^3/ul				15	Finalizat					
+Eozinofile	0,12	0,09 - 0,43	10^3/ul				15	Finalizat					
+Bazofile	0,02	0 - 0,1	10^3/ul				15	Finalizat					
+NEUT%	45,4	37 - 65	%				15	Finalizat					
+LYMPH%	42,9	27 - 50	%				15	Finalizat					
+MONO%	8,8	2-Aug	%	Crescut			15	Finalizat					
+EO%	2,5	2-Apr	%				15	Finalizat					
+BASO%	0,4	0 - 1	%				15	Finalizat					
+Reticulocite%		0,5 - 1,5	%				15	Finalizat					
+Reticulocite			10^6/ul				15	Finalizat					
+Granulocite imature %	0		%				15	Finalizat					
+Granulocite imature #	0		10^3/ul				15	Finalizat					
+FT3	Sange	5,99	4,1 - 7,9	pmol/L			0	Finalizat					
+FT4	Sange	13,04	11,6 - 21,5	pmol/L			0	Finalizat					
+Glicemie a jeun	Sange	4,73		mmol/L			8	Finalizat					
+Glicemie 30'	Sange	4,04		mmol/L									
+Glicemie 1h	Sange	4,05		mmol/L			8	Finalizat					
+Glicemie la 90 min.	Sange	Apr-30		mmol/L			8	Finalizat					
+Feritina	Sange	16	20 - 200	ng/ml	Scazut		40	Finalizat					
+Sideremie	Sange	8,4	6,6 - 26	umol/L			8	Finalizat					
+Cortizol am	Sange	261,8	171 - 536	nmol/L			0	Finalizat					
+Prolactina	Sange	235	102 - 496	uIU/mL		femei neansarcinate	0	Finalizat					
+													
+ARPINTEN F.													
+ALT(GPT)	Sange	14	< 60	U/L			6,5	Finalizat					
+AST(GOT)	Sange	34	< 52	U/L			6,5	Finalizat					
+Calciu ionic	Sange	1,17	1,05 - 1,3	mmol/L			0	Finalizat					
+Calciu total	Sange	2,54	2,1 - 2,6	mmol/L			6,5	Finalizat					
+Creatinina	Sange	22	25 - 55	umol/L	Scazut		6,5	Finalizat					
+Fosfataza alcalina	Sange	149	< 269	U/L			6,5	Finalizat					
+Fosfor	Sange	2,12	1,1 - 2	mmol/L	Crescut		13	Finalizat					
+Magneziu	Sange	0,83	0,7 - 1,05	mmol/L			6,5	Finalizat					
+Proteina C-Reactiva (Sange)	Sange	1,77	0 - 5	mg/L			10	Finalizat					
+Imunoglobuline E totale	Sange	172,4	0 - 60	UI/ml	Crescut		0	Finalizat					
+WBC - Leucocite	9,56	4-Dec	10^3/ul				0	Finalizat					
+RBC - Eritrocite	4,31	3,9 - 5,3	10^6/ul				0	Finalizat					
+HGB - Hemoglobina	10,2	10,7 - 14,1	g/dL	Scazut			0	Finalizat					
+HCT - Hematocrit	31	30 - 43	%				0	Finalizat					
+MCV	71,9	72 - 88	fL	Scazut			0	Finalizat					
+MCH	23,7	23 - 31	pg				0	Finalizat					
+MCHC	32,9	32 - 36	g/dL				0	Finalizat					
+PLT - Trombocite	166	150 - 450	10^3/ul				0	Finalizat					
+RDW-SD	47,1	37 - 54	fL				0	Finalizat					
+RDW-CV	18,5	11,5 - 15	%	Crescut			0	Finalizat					
+PDW		12 - 16,5	fL				0	Finalizat					
+MPV		7,4 - 10,4	fL				0	Finalizat					
+P-LCR		13 - 43	%				0	Finalizat					
+PCT		0,16 - 0,47	%				0	Finalizat					
+Neutrofile	4,05	0,72 - 5,28	10^3/ul				0	Finalizat					
+Limfocite	3,45	1,84 - 9,12	10^3/ul				0	Finalizat					
+Monocite	1,01	0,08 - 0,96	10^3/ul	Crescut			0	Finalizat					
+Eozinofile	0,97	0,08 - 0,48	10^3/ul	Crescut			0	Finalizat					
+Bazofile	0,08	0 - 0,1	10^3/ul				0	Finalizat					
+NEUT%	42,4	18 - 44	%				0	Finalizat					
+LYMPH%	36,1	46 - 76	%	Scazut			0	Finalizat					
+MONO%	10,6	2-Aug	%	Crescut			0	Finalizat					
+EO%	10,1	2-Apr	%	Crescut			0	Finalizat					
+BASO%	0,8	0 - 1	%				0	Finalizat					
+Reticulocite%		0,5 - 1,5	%				0	Finalizat					
+Reticulocite			10^6/ul				0	Finalizat					
+Granulocite imature %	0,2		%				0	Finalizat					
+Granulocite imature #	0,02		10^3/ul				0	Finalizat					
+Sideremie	Sange	7,3	Nov-28	umol/L	Scazut		6,5	Finalizat					
+Glicemie a jeun	Sange	4,82		mmol/L			6,5	Finalizat					
+Glicemie 30'	Sange	3,34		mmol/L			6,5	Finalizat					
+Glicemie 1h	Sange	8,09		mmol/L			6,5	Finalizat					
+Glicemie la 90 min.	Sange	Jun-45		mmol/L									
+													
+ATALAY S.													
+Acid uric	Ser	217	200 - 420	umol/L			8	Finalizat					
+ALT(GPT)	Ser	18	< 26	U/L			8	Finalizat					
+AST(GOT)	Ser	20	< 33	U/L			8	Finalizat					
+Colesterol	Ser	4,5	< 5,2	mmol/L			8	Finalizat					
+Creatinina	Ser	35	45 - 75	umol/L	Scazut		8	Finalizat					
+Gamma-globuline	8,7	8 - 15,8	%				29	Finalizat					
+Beta-globuline	10	7,5 - 12,9	%				29	Finalizat					
+Alfa2-globuline	11,1	7,4 - 12,6	%				29	Finalizat					
+Alfa1-globuline	2,2	1 - 3,2	%				29	Finalizat					
+Albumina	68	59,8 - 72,4	%				29	Finalizat					
+Glicemie	Ser	5,23	3,88 - 6,38	mmol/L			8	Finalizat					
+													
+HDL - Colesterol	Ser	2-Feb	Feminin: Fara risc > 1.7 Risc moderat 1.15 - 1.7 Risc crescut < 1.15 Masculin: Fara risc > 1.45 Risc moderat 0.9-1.45 Risc crescut <0.9	mmol/L			8	Finalizat					
+LDL Colesterol	Ser	2,16	0 - 3,35	mmol/L			8	Finalizat					
+Proteine totale	Ser	68,4	60 - 80	g/L			8	Finalizat					
+Trigliceride	Ser	0,69	< 1,7	mmol/L			8	Finalizat					
+Uree	Ser	2,71	1,4 - 8,3	mmol/L			8	Finalizat					
+Hemoleucograma cu formula leucocitara	Sange						17	Finalizat					
+Estradiol	Ser	<5,00		pg/ml		femei:f. foliculara(12.5-166) f. ovulatorie(85.8-498) f. luteala(43.8-211) postmenopauza(5-54.7) sarcina I trim(215-4300)							
+FSH	Ser			mUI/mL		lipsa reactiv	35	Invalidat					
+FT3	Ser	7,07	3,5 - 7,7	pmol/L			30	Finalizat					
+FT4	Ser	18,3	12 - 20,6	pmol/L			30	Finalizat					
+Insulina	Ser	36,25	2,6 - 24,9	uIU/mL	Crescut		40	Finalizat					
+Peptid C	Ser	2,88	1,1 - 4,4	ng/ml			47	Finalizat					
+Glicemie a jeun	Plasma	6,28		mmol/L			8	Finalizat					
+Glicemie 30'	Plasma	5,31		mmol/L			8	Finalizat					
+Glicemie 1h	Plasma	7,01		mmol/L									
+Glicemie la 90 min.	Plasma	6-Jul		mmol/L									
